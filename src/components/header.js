@@ -7,8 +7,8 @@ class Header extends React.Component {
                 <div className="d-flex flex-column">
     
                     <div className="profile">
-                        <img src="assets/img/profile-img.jpg" alt="" className="img-fluid rounded-circle" />
-                        <h1 className="text-light"><a href="index.html">Alex Smith</a></h1>
+                        <img src="assets/img/profile.png" alt="" className="img-fluid rounded-circle" />
+                        <h1 className="text-light"><a href="/">Brian Redding</a></h1>
                         <div className="social-links mt-3 text-center">
                             <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
                             <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
@@ -24,7 +24,7 @@ class Header extends React.Component {
                             <li><a href="#about" className="nav-link scrollto"><i className="bx bx-user"></i> <span>About</span></a></li>
                             <li><a href="#resume" className="nav-link scrollto"><i className="bx bx-file-blank"></i> <span>Resume</span></a></li>
                             <li><a href="#portfolio" className="nav-link scrollto"><i className="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-                            <li><a href="#services" className="nav-link scrollto"><i className="bx bx-server"></i> <span>Services</span></a></li>
+                            {/* <li><a href="#services" className="nav-link scrollto"><i className="bx bx-server"></i> <span>Services</span></a></li> */}
                             <li><a href="#contact" className="nav-link scrollto"><i className="bx bx-envelope"></i> <span>Contact</span></a></li>
                         </ul>
                     </nav>
