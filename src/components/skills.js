@@ -30,7 +30,7 @@ export default class Skills extends React.Component {
                             </div>
 
                             <div className="progress">
-                                <span className="skill">HTM/CSS <i className="val">80%</i></span>
+                                <span className="skill">HTML/CSS <i className="val">80%</i></span>
                                 <div className="progress-bar-wrap">
                                     <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
