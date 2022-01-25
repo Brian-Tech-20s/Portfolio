@@ -94,6 +94,10 @@ export default class Resume extends React.Component {
 
                                 </ul>
                             </div>
+
+
+
+                            
                         </div>
                     </div>
 

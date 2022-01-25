@@ -18,13 +18,13 @@ export default class Contact extends React.Component {
                                 <div className="address">
                                     <i className="bi bi-geo-alt"></i>
                                     <h4>Location:</h4>
-                                    <p>59 Mohawk Street, Apt B</p>
+                                    <p>Waterbury, CT</p>
                                 </div>
 
                                 <div className="email">
                                     <i className="bi bi-envelope"></i>
                                     <h4>Email:</h4>
-                                    <p>bredding@hartford.edu</p>
+                                    <p>Bjredding56@gmail.com</p>
                                 </div>
 
                                 <div className="phone">

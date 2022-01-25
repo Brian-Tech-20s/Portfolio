@@ -17,14 +17,14 @@ class Facts extends React.Component {
                             <div className="count-box text-center">
                                 <img src="/assets/img/skills/html-5.svg" width="50"/>
                                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>HTML5</strong>
+                                <strong>HTML</strong>
                             </div>
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
                                 <img src="/assets/img/skills/css3.svg" width="50"/>
                                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>CSS3</strong>
+                                <strong>CSS</strong>
                             </div>
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
@@ -34,13 +34,7 @@ class Facts extends React.Component {
                                 <strong>JavaScript</strong>
                             </div>
                         </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/sass-1.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Sass</strong>
-                            </div>
-                        </div>
+                     
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
                                 <img src="/assets/img/skills/bootstrap-4.svg" width="50"/>
@@ -97,39 +91,14 @@ class Facts extends React.Component {
                                 <strong>Node JS</strong>
                             </div>
                         </div>
+                    
+                    
+                     
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
-                                <img src="/assets/img/skills/express.svg" width="50"/>
+                                <img src="/assets/img/skills/csharp.svg" width="50"/>
                                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Express</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/django.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Django</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/flask.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Flask</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/heroku.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Heroku</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/digital-ocean.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Digital Ocean</strong>
+                                <strong>C#</strong>
                             </div>
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
