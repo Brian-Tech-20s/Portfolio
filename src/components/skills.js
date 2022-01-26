@@ -49,9 +49,9 @@ export default class Skills extends React.Component {
                         <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
                             <div className="progress">
-                                <span className="skill">React.JS <i className="val">50%</i></span>
+                                <span className="skill">React.JS <i className="val">80%</i></span>
                                 <div className="progress-bar-wrap">
-                                    <div className="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
 

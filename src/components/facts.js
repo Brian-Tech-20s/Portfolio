@@ -58,9 +58,9 @@ class Facts extends React.Component {
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
-                                <img src="/assets/img/skills/react-router.svg" width="50"/>
+                                <img src="/assets/img/skills/java.svg" width="50"/>
                                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>React Router</strong>
+                                <strong>Java</strong>
                             </div>
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
@@ -77,13 +77,7 @@ class Facts extends React.Component {
                                 <strong>React Bootstrap</strong>
                             </div>
                         </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/styled-components.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Styled Components</strong>
-                            </div>
-                        </div>
+                     
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
                                 <img src="/assets/img/skills/nodejs.svg" width="50"/>
@@ -103,9 +97,9 @@ class Facts extends React.Component {
                         </div>
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
-                                <img src="/assets/img/skills/github.svg" width="50"/>
+                                <img src="/assets/img/skills/netframe.svg" width="50"/>
                                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Github Pages</strong>
+                                <strong>Microsoft .NET Framework</strong>
                             </div>
                         </div>
                         {/* <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
@@ -115,34 +109,10 @@ class Facts extends React.Component {
                                 <strong>JavaScript</strong>
                             </div>
                         </div> */}
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/typescript.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>TypeScript</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/python.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Python</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/postgresql.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>PostgreSQL</strong>
-                            </div>
-                        </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/mssql.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>MS SQL</strong>
-                            </div>
-                        </div>
+                   
+                      
+                        
+                       
                         <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
                             <div className="count-box text-center">
                                 <img src="/assets/img/skills/mongodb.svg" width="50"/>
@@ -150,13 +120,7 @@ class Facts extends React.Component {
                                 <strong>MongoDB</strong>
                             </div>
                         </div>
-                        <div className="col-lg-2 col-md-2 d-md-flex align-items-md-stretch" data-aos="fade-up">
-                            <div className="count-box text-center">
-                                <img src="/assets/img/skills/git-icon.svg" width="50"/>
-                                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" className="purecounter"></span>
-                                <strong>Git</strong>
-                            </div>
-                        </div>
+                      
 
                       
 
