@@ -28,8 +28,7 @@ export default class Portfolio extends React.Component {
                             <div className="portfolio-wrap">
                                 <img src="assets/img/portfolio/java1.jpg" className="img-fluid" alt="" />
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/java1.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
-                                    <a href="#" title="More Details"><i className="bx bx-link"></i></a>
+                                    <a href="https://github.com/Bredding234/Threads_Synchronization" title="Source Code"><i className="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -38,8 +37,7 @@ export default class Portfolio extends React.Component {
                             <div className="portfolio-wrap">
                                 <img src="assets/img/portfolio/java2.png" className="img-fluid" alt="" />
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/java2.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Web 3"><i className="bx bx-plus"></i></a>
-                                    <a href="#" title="More Details"><i className="bx bx-link"></i></a>
+                                    <a href="https://github.com/Bredding234/Tic-tac-toe-client-and-server" title="Source Code"><i className="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -48,8 +46,7 @@ export default class Portfolio extends React.Component {
                             <div className="portfolio-wrap">
                                 <img src="assets/img/portfolio/java3.png" className="img-fluid" alt="" />
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/java3.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="App 2"><i className="bx bx-plus"></i></a>
-                                    <a href="#" title="More Details"><i className="bx bx-link"></i></a>
+                                    <a href="https://github.com/EmilyV99/TicTacToe" title="Source Code"><i className="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -64,16 +61,31 @@ export default class Portfolio extends React.Component {
                             </div>
                         </div>
 
-                    <div className="col-lg-4 col-md-6 portfolio-item filter-cards">
+                    <div className="col-lg-4 col-md-6 portfolio-item filter-card1">
                             <div className="portfolio-wrap">
-                                <img src="assets/img/portfolio/os1.jpg" className="img-fluid" alt="" />
+                                <img src="assets/img/portfolio/weather.png" className="img-fluid" alt="" />
                                 <div className="portfolio-links">
                                     <a href="https://github.com/Bredding234/weather-react" title="Source Code"><i className="bx bx-link"></i></a>
                                 </div>
                             </div>
                         </div>
-                       
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-card1">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/calorie.png" className="img-fluid" alt="" />
+                                <div className="portfolio-links">
+                                    <a href="https://github.com/Bredding234/Calculate-Calories-Website-Front-End-" title="Source Code"><i className="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div> 
 
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-card1">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/sportwebsite.png" className="img-fluid" alt="" />
+                                <div className="portfolio-links">
+                                    <a href="https://github.com/Bredding234/Nba-Website" title="Source Code"><i className="bx bx-link"></i></a>
+                                </div>
+                            </div>
+                        </div> 
 
 
                     </div>
